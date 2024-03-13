@@ -1,0 +1,1 @@
+root.grid_columnconfigure(0, minsize=300)
